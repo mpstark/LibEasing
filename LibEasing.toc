@@ -1,4 +1,4 @@
-## Interface: 70200
+## Interface: 70300
 ## Version: 1.0
 ## Title: LibEasing
 ## Author: mpstark
