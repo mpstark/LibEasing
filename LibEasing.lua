@@ -2,7 +2,7 @@
 -- LIBEASING --
 ---------------
 
-local MAJOR, MINOR = "LibEasing-1.0", 1;
+local MAJOR, MINOR = "LibEasing-1.0", 2;
 local LibEasing = LibStub:NewLibrary(MAJOR, MINOR);
 
 if (not LibEasing) then
